@@ -1,1 +1,7 @@
-#include<iostram.h>
+#include<iostram>
+
+int main()
+{
+cout<<"Code edited";
+
+}
