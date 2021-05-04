@@ -2,8 +2,6 @@
 
 int main()
 {
-fgfg
-hjhjh
-
-cout<<"h";
+cout<<"hello";
+cout<<"end";
 }
